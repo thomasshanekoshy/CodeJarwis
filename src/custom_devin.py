@@ -5,7 +5,7 @@ import logging
 from threading import Thread
 
 
-from code.logic.agents.init import init_devika
+from src.logic.agents.init import init_devika
 from logic.config import Config
 
 from logic.logger import Logger, route_logger
