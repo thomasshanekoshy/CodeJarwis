@@ -1,4 +1,4 @@
-# CustomDevin
+# CodeJarwis
 ## Objectives
 
 Reduce time needed to debug
